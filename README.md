@@ -16,6 +16,6 @@ Packages:<br>
 
 ## Apk URL
 
-- [Click here to download the apk file]([https://drive.google.com/file/d/1DcJm4RADQ7oRTl-WCGJxvyJ-50nSNiIH/view](https://drive.google.com/file/d/10CsQlylscLQs0eE4Dp-Fa7FmgImmMPWy/view?usp=sharing)https://drive.google.com/file/d/10CsQlylscLQs0eE4Dp-Fa7FmgImmMPWy/view?usp=sharing)
+- [Click here to download the apk file](https://drive.google.com/file/d/10CsQlylscLQs0eE4Dp-Fa7FmgImmMPWy/view?usp=drive_link)
 
 
